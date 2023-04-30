@@ -1,1 +1,3 @@
 google.com, pub-2185503599185520, DIRECT, f08c47fec0942fa0
+airtesk.com, pub-2185503599185520, DIRECT, f08c47fec0942fa0
+airtesk.com, pub-2185503599185520, RESELLER, f08c47fec0942fa0
